@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_eye"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "los:lime_chorusite_dust"
+    },
+    {
+      "item": "los:cyan_chorusite_dust"
+    }
+  ],
+  "result": {
+    "item": "los:chorusite_ingot",
+    "count": 1
+  }
+}

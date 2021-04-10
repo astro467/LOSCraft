@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lll",
+    "lll",
+    "lll"
+  ],
+  "key": {
+    "l": {
+      "item": "los:chorusite_ingot"
+    }
+  },
+  "result": {
+    "item": "los:chorusite_block",
+    "count": 1
+  }
+}

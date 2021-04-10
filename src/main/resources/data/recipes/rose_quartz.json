@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "los:rose_quartz_shard"
+    }
+  },
+  "result": {
+    "item": "los:rose_quartz",
+    "count": 1
+  }
+}
