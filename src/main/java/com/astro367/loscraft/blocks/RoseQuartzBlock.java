@@ -15,11 +15,6 @@ public class RoseQuartzBlock extends Block {
                 .harvestLevel(3)
                 .setRequiresTool()
                 .harvestTool(ToolType.PICKAXE)
-
-
-
-
-
         );
     }
 }

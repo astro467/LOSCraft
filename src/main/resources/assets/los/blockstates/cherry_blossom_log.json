@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "los:block/cherry_blossom_log" },
+    "facing=south": { "model": "los:block/cherry_blossom_log", "y":  180},
+    "facing=west": { "model": "los:block/cherry_blossom_log", "y":  270},
+    "facing=east": { "model": "los:block/cherry_blossom_log", "y":  90}
+  }
+}
